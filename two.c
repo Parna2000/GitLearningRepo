@@ -33,6 +33,8 @@ int main(){
     {
         /* code */
         printf("The arraay is sorted");
+        printf("And your work is done");
+        printf("so, don't worry");
     }
     
 }
