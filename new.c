@@ -41,4 +41,5 @@ int main()
         printf("The minimum element of the array is: %d\n",p);
     }
     printf("in dev branch\n");
+    printf("New change in dev branch");
 }
